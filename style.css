@@ -9,7 +9,7 @@ header {
   background-color: #333;
   color: white;
   text-align: center;
-  padding: 1rem 0;
+  padding: 1rem;
 }
 
 main {
@@ -24,7 +24,7 @@ footer {
   background-color: #333;
   color: white;
   text-align: center;
-  padding: 1rem 0;
+  padding: 1rem;
   position: fixed;
   width: 100%;
   bottom: 0;
